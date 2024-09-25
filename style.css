@@ -18,8 +18,8 @@ div {
     height: 150px;
     width: 100%;
     font-weight: 600;
-    text-align: center;
 }
+
 .nav {
     float: right;
     height: 100px;
@@ -40,17 +40,18 @@ div {
     margin: 0 20px;
 }
 .section {
-    height: 50%;
-    margin: 0px 20px;
-
+    margin: 0px 0px;
+    padding: 25px;
 }
 .section p {
     font-size: 20px;
     font-style: italic;
 }
-aside {
-
+.section img {
+    height: 300px;
+    width: auto;
 }
+
 .footer {
     margin-top: 10px;
     height: 100px;
